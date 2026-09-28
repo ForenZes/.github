@@ -1,1 +1,1 @@
-iSecureOS is developed by <a href="https://idevicecentral.com">iDevice Central</a>
+ForenZes Labs provides tools, incident response, threat analysis, and infosec courses. Provided by GeoSn0w (@FCE365), a veteran in the iOS hacking world, and the author behind <a href="https://idevicecentral.com">iDevice Central</a>
